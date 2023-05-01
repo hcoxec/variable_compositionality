@@ -35,7 +35,7 @@ Included under the scripts directory is a file **run.sh** which runs all of thes
 
 ```bash run.sh```
 
- Also included is **run_array.sh** which runs the model for 10 initializations and provides an example of how to add commandline arguments, for run dependent parameters 0 like random seed.
+ Also included is **run_array.sh** which runs the model for 10 initializations and provides an example of how to add commandline arguments for run dependent parameters, like random seed.
 
 #### Attribution
 
