@@ -6,8 +6,8 @@ function(command_line_args={}) {
         exp_id: 1000,
         att: 2,
         params: 250,
-        wkdir: '/Users/hcoxec/research/public_code/variable_compositionality',
-        logdir: '/Users/hcoxec/research/public_code/variable_compositionality/checkpoints',
+        wkdir: '/path/to/code/variable_compositionality',
+        logdir: '/Path/to/code/variable_compositionality/checkpoints',
         eval_section: "test_mcd",  # gen_samples, gen, test
         sender_entropy: 0.5,
         decay_coeff: 0.0,
