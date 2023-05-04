@@ -1,8 +1,6 @@
-# Compositionality With Variation Reliably Emerges Between Neural Networks
+# Compositionality With Variation Reliably Emerges in Neural Networks
 
-Code for ICLR 2023 Paper [Compositionality With Variation Reliably Emerges Between Neural Networks](https://openreview.net/pdf?id=-Yzz6vlX7V-)
-
-(I'm presenting this at ICLR Wednesday - come say hi)
+Code for ICLR 2023 Paper [Compositionality With Variation Reliably Emerges in Neural Networks](https://openreview.net/pdf?id=-Yzz6vlX7V-)
 
 ### Setup
 Create a new virtual environment and run:
